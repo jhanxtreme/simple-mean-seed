@@ -1,0 +1,10 @@
+{
+  "db": {
+    "connection_string": "mongodb://127.0.0.1:27017/",
+    "name": "jhanxtreme"
+  },
+  "env": {
+    "secret_key": "taeisgreat",
+    "auth_expiration_time": "3m"
+  }
+}
